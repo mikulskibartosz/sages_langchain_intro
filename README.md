@@ -47,7 +47,7 @@ Dla osób używających PyCharm: instrukcja jak znaleźć opcję zmiany interpre
 
 9. Klikamy prawym przyciskiem na nazwie pliku `test_intro.py` i wybieramy opcję "Run".
 
-10. Jeśli wszystko działa prawidłowo, w konsoli powinniśmy zobaczyć tekst: "Działa!!!". Ostrzeżenia widoczne na poniższej grafice nie mają znaczenia ponieważ nie będziemy używać tych funkcji.
+10. Jeśli wszystko działa prawidłowo, w konsoli powinniśmy zobaczyć tekst: "Działa!". Ostrzeżenia widoczne na poniższej grafice nie mają znaczenia ponieważ nie będziemy używać tych funkcji.
 
 ![Done](images/06_done.png)
 
