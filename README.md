@@ -11,7 +11,7 @@ Używamy Python 3.9, ale prawdopodobnie każda wersja powyżej 3.7 zadziała.
 
 ## Przygotowanie środowiska
 
-1. Otwieramy "module settings". 
+1. Otwieramy "module settings". Zawartość katalogu w repozytorium jest inna niż widoczna na grafice ponieważ ta część instrukcji została skopiowana z instrukcji dla innych warsztatów. 
 
 Dla osób używających PyCharm: instrukcja jak znaleźć opcję zmiany interpretera Pythona: https://www.jetbrains.com/help/pycharm/configuring-python-interpreter.html (nastepnie przechodzimy do punktu 3)
 
@@ -27,7 +27,7 @@ Dla osób używających PyCharm: instrukcja jak znaleźć opcję zmiany interpre
 
 ![Virtualenv](images/03_virtualenv.png)
 
-5. Otwieramy plik `requirements.txt` znajdujący się w katalogu z projektem. Zawartość pliku będzie inna niż na obrazku. To nie jest błąd.
+5. Otwieramy plik `requirements.txt` znajdujący się w katalogu z projektem. Zawartość pliku będzie inna niż na grafice. To nie jest błąd.
 
 6. Klikamy link "Install requirements" znajdujący się na belce nad zawartością pliku.
 
